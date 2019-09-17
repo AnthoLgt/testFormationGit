@@ -1,3 +1,3 @@
 # testFormationGit
 
-Test readMe (faite en local)
+Test readMe (corrigé)
