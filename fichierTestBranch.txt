@@ -1,1 +1,1 @@
-Test conflit fait sur Github
+Test Conflit -> OK
